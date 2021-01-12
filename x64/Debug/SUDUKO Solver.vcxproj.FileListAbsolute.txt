@@ -1,0 +1,2 @@
+C:\Users\piyus\source\repos\SUDUKO Solver\x64\Debug\SUDUKO Solver.exe
+C:\Users\piyus\source\repos\SUDUKO Solver\x64\Debug\SUDUKO Solver.pdb
